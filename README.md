@@ -304,7 +304,7 @@ Accessing and Customizing Settings
 Using the Settings UI
 
 Open Settings UI:
-Click on the gear icon (⚙️) in the lower-left corner of the VS Code window and select Settings.
+Click on the gear icon  in the lower-left corner of the VS Code window and select Settings.
 Alternatively, press Ctrl+, (Cmd+, on macOS) to open the Settings UI directly.
 
 Search for Settings:
@@ -314,7 +314,7 @@ Accessing and Customizing Settings
 
 Using the Settings UI
 Open Settings UI:
-Click on the gear icon (⚙️) in the lower-left corner of the VS Code window and select Settings.
+Click on the gear icon  in the lower-left corner of the VS Code window and select Settings.
 Alternatively, press Ctrl+, (Cmd+, on macOS) to open the Settings UI directly.
 
 Search for Settings:
@@ -328,7 +328,7 @@ Adjust the Editor: Font Size setting by entering the desired font size.
 
 Customizing Keybindings
 Using the Keybindings UI:
-Click on the gear icon (⚙️) in the lower-left corner and select Keyboard Shortcuts.
+Click on the gear icon  in the lower-left corner and select Keyboard Shortcuts.
 Alternatively, press Ctrl+K Ctrl+S to open the Keyboard Shortcuts editor.
 Use the search bar to find the command you want to change.
 Click the pencil icon next to the command and press the new key combination to set it.
